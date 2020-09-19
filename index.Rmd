@@ -6,6 +6,8 @@ output:
 #  bookdown::pdf_document2: default
  bookdown::html_document2:
    keep_md: false
+   code_download: true
+   theme: cerulean 
 bibliography: packages.bib
 ---
 
@@ -231,7 +233,8 @@ Bike-sharing programs allow individuals to rent a bike at one location and then 
 
 Data from the Capital Bikeshare system in Washington, D.C. were used to determine what factors contribute to higher usage of rental bikes on a daily basis in the years 2011 and 2012. Started in 2008, the Capital Bikeshare program has over 500 stations spanned across the nation's capital, Virginia, and Maryland.
 
-![](bike.png)
+
+<img alt="Two people riding bicycles on a city street. It displays the following text: Experience Metro DC on Two Wheels. Capital Bikeshare is metro DC's bikeshare service, with 4500 bikes and 500+ stations across 7 jurisdictions: Washington, DC; Arlington, VA; Alexandria, VA; Montgomery, MD; Prince George's County, MD; Fairfax County, VA; and the City of Falls Church, VA. Designed for quick trips with convenience in mind, it's a fun and affordable way to get around." src="bike.png" />
 
 # Method
 
