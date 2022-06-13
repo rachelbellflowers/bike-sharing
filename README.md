@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# Factors that Influence the Use of Bike-Sharing Programs
 
-You can use the [editor on GitHub](https://github.com/rachelbellflowers/supervised_learning_writeup/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Bike-sharing programs allow individuals to rent a bike at one location and then leave it at another location. Often found in cities, these programs help citizens avoid traffic and travel around quicker than walking. With over 500 bike-sharing programs in existence, it is clear that this model has gained traction. Given that these bicycles have tracking software that records who is riding, for how long, and their final destination, data about the use of such programs is easily available. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rachelbellflowers/supervised_learning_writeup/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Data from the Capital Bikeshare system in Washington, D.C. were used to determine what factors contribute to higher usage of rental bikes on a daily basis in the years 2011 and 2012. Started in 2008, the Capital Bikeshare program has over 500 stations spanned across the nation's capital, Virginia, and Maryland.
